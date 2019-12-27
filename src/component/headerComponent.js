@@ -21,7 +21,7 @@ class HeaderComponent extends React.Component {
             <li>
               {" "}
               <NavLink exact to="/">
-                News Feed
+                News Feedss
               </NavLink>
             </li>
             <li>
